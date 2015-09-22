@@ -1,5 +1,5 @@
-#用于登录mysql数据库，可以进行一些操作，获取结果之后，进行处理
-#
+# Login to mysql
+# Oracle databse use sqlplus
 #
 
 ret=`mysql -u root -p123456 << EOF
